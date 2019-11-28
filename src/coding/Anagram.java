@@ -61,7 +61,7 @@ public class Anagram {
         	   return false;
            }
         	   
-           
+           // return map.isEmpty;
         }
         return true;
          

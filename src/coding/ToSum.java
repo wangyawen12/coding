@@ -105,7 +105,7 @@ public class ToSum {
 		
 		//int[]a= {2,4,6,2,1,4,9,20};
 		//int b = 8;
-		int[]a= {2,4,15,3,1,4,9,20};
+		int[]a= {2,4,15,3,1,4,9,20};  //4:1  
 		int b=8;
 		
          int[] res = tosum(a,b);
