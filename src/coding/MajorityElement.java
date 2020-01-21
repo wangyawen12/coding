@@ -14,7 +14,7 @@ public class MajorityElement {
 		
 	}
 
-	
+	//https://leetcode.com/problems/majority-element/
 	
 	public static int majorityElement(int[] nums) {
         int n = nums.length;

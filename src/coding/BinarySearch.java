@@ -32,19 +32,10 @@ public class BinarySearch {
         // if we reach here, then element was 
         // not present 
         return -1; 
-    } 
-	
-	
-	
-	
-
-	
-	
-				
-			
+    }		
 		
 		
     
   }
 	
-}
+
